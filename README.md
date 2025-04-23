@@ -5,7 +5,7 @@ This project uses AI to analyze user mood and recommend songs based on the analy
 ## Features
 
 - User mood analysis through text input
-- AI-powered sentiment analysis
+- AI-powered groq analysis
 - Integration with Spotify API for music recommendations
 - Personalized song suggestions based on mood
 - Web interface for easy interaction
